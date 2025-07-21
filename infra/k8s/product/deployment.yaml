@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: product-service
-          image: olymahmudmugdho/product-service:a3bc99932534a65612a571918551e4a379e41f95
+          image: olymahmudmugdho/product-service:dcad2de734a7001069c0e4195e2b6c8a00408a43
           ports:
             - containerPort: 8081
           envFrom:
